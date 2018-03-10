@@ -1,2 +1,3 @@
 # data-muggle
 Repository that hosts analytics projects.
+Predictive analytics being the science where we can get future predictions to solve world problems related to any field is something that sparked this project. This project uses world food consumption dataset that depicts various countries and their food production in different category of food grown along with the country's consumption which can be imports from other countries as well. Algorithms like SVM, Decision trees, Linear regression are used. CLustering to combine the related food from various categories is executed. Please refer for the files for complete working of the project.
